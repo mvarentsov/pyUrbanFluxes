@@ -2,3 +2,4 @@ pics*
 *.png
 *.csv
 *.pyc
+/_temp/
