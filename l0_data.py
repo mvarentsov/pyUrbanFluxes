@@ -8,6 +8,7 @@ DATA_ROOT = Path(r"D:\Data\IFA\Urban_fluxes_NE")
 RAW_ROOT = DATA_ROOT / "raw"
 PROCESSED_ROOT = DATA_ROOT / "processed"
 CHINA_SHORT_ROOT = RAW_ROOT / "Beijing" / "short DS"
+CHINA_LONG_ROOT = RAW_ROOT / "Beijing" / "long dataset"
 MSU_OBS_PATH = Path(r"D:\Data\Meteo\MSK\meteo_data\msu\data_msu_fixed.csv")
 
 TOMSK_SITES = [
